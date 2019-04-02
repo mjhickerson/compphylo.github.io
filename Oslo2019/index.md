@@ -26,7 +26,7 @@ biological systems for this cutting-edge field of research.
   - Alexander Xue (Cold Spring Harbor Laboratory)
   - Isaac Overcast (Graduate Center, City University of New York)
 
-# Registration
+## Registration
 
 Register in the submission form with a short CV and indicate the nature and 
 stage of your interest or research project(s). Registration deadline is May 
