@@ -43,10 +43,10 @@ In addition, ForBio will cover travel for Norwegian ForBio members.
 
 Times            | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday |
 -----            | ------ | ------ | ------ | | ------- | ------ | ------ |
-8:30-9:00       | | | Check-in and refreshments | Check-in and refreshments | Check-in and refreshments | watdo|
-9:00-12:30      | | | Intro to RAD-Seq data types | (Instruction) [Jupyter notebook setup](Jupyter_Notebook_Setup.md), [Tetrad - A Quartet-based species tree method](https://nbviewer.jupyter.org/github/dereneaton/ipyrad/blob/master/tests/cookbook-tetrad.ipynb), & [Phylogenetic inference: RAxML](06_RAxML_API.md) | (Instruction) [Clustering analysis: PCA](04_PCA_API.md), Demographic analysis ([momi2](07_momi2_API.md)) | friday morn |
-12:30-14:00 | | | Lunch | Lunch | Lunch | Lunch |
-14:00-17:00 | | | [Cluster basics](01_cluster_basics.md) and [ipyrad parts I](02_ipyrad_partI_CLI.md) & [II](03_ipyrad_partII_CLI.md) | (Small Group work) [Targeted phylogenetics exercises](tba.md) | (Small Group work) [Targeted population genetics exercises](tba.md) | Friday afternoon |
+8:30-9:00       | | Welcome/Intro/Housekeeping | Check-in and refreshments | Check-in and refreshments | Check-in and refreshments | Check-in and refreshments |
+9:00-12:30      | | Mike (demographic/model-based inferences) | MESS (Isaac) | PipeMaster (Marcelo) | ABLE (Champak) | Multi-DICE (Xander) |
+12:30-14:00 | | Lunch | Lunch | Lunch | Lunch | Lunch |
+14:00-17:00 | Optional bash/python/R/scripting/CLI intro (TBD) | Bash/Python/R Coding /scripting intro | MESS (Isaac) | PipeMaster (Marcelo) | ABLE (Champak) | Multi-DICE (Xander) |
 
 ## Additional resources
 
