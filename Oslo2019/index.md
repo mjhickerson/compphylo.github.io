@@ -1,11 +1,11 @@
 # Welcome to CompPhylo 2019 - Oslo Edition
 
-Sponsored by Forskerskole i biosystematikk (ForBio) & UiO:Life Science  
+Sponsored by [Forskerskole i biosystematikk (ForBio)](https://www.forbio.uio.no/) & [UiO:Life Science](https://www.uio.no/english/research/strategic-research-areas/life-science/)  
 
 August 26-30, 2019  
 [Tollboden, Drobak Marine Station](https://goo.gl/maps/6UamJ4Bnog92)  
 Biologveien 2  
-1440 DrÃ¸bk  
+1440 Drobak  
 Norway  
 
 ## Organisers
@@ -40,11 +40,11 @@ Times            | Tuesday | Wednesday (Phylogenetics) | Thursday (Population ge
 
 ## Additional resources
 
-## CompPhylo Oslo 2019 co-sponsored by:
+# CompPhylo Oslo 2019 co-sponsored by:
 
 ![ForBio](images/ForBio.png)
 ![UiO:Life Science](images/UiO.png)
 
-# CompPhylo Oslo 2019 Group Photo
+## CompPhylo Oslo 2019 Group Photo
 
 Don't forget to get a nice group photo!
