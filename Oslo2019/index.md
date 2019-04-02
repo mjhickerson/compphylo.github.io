@@ -2,13 +2,18 @@
 
 Sponsored by [Forskerskole i biosystematikk (ForBio)](https://www.forbio.uio.no/) & [UiO:Life Science](https://www.uio.no/english/research/strategic-research-areas/life-science/)  
 
-ForBio and UiO:Life Science jointly offer a generator workshop on model-based demographic inferences of both single species and communities. The workshop aims to learn and apply new tools to elucidate phylogeographic patterns, biogeographic shifts and demographic responses of single- and multi-taxa as well as to contribute to knowledge exchange on methodological challenges and diverse biological systems for this cutting-edge field of research.
-
 August 26-30, 2019  
 [Tollboden, Drobak Marine Station](https://goo.gl/maps/6UamJ4Bnog92)  
 Biologveien 2  
 1440 Drobak  
 Norway  
+
+ForBio and UiO:Life Science jointly offer a generator workshop on model-based 
+demographic inferences of both single species and communities. The workshop 
+aims to learn and apply new tools to elucidate phylogeographic patterns, 
+biogeographic shifts and demographic responses of single- and multi-taxa as well 
+as to contribute to knowledge exchange on methodological challenges and diverse 
+biological systems for this cutting-edge field of research.
 
 ## Organisers
   - [Hugo de Boer](hugo.deboer@nhm.uio.no) (ForBio)
