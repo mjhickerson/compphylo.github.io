@@ -2,6 +2,8 @@
 
 Sponsored by [Forskerskole i biosystematikk (ForBio)](https://www.forbio.uio.no/) & [UiO:Life Science](https://www.uio.no/english/research/strategic-research-areas/life-science/)  
 
+ForBio and UiO:Life Science jointly offer a generator workshop on model-based demographic inferences of both single species and communities. The workshop aims to learn and apply new tools to elucidate phylogeographic patterns, biogeographic shifts and demographic responses of single- and multi-taxa as well as to contribute to knowledge exchange on methodological challenges and diverse biological systems for this cutting-edge field of research.
+
 August 26-30, 2019  
 [Tollboden, Drobak Marine Station](https://goo.gl/maps/6UamJ4Bnog92)  
 Biologveien 2  
@@ -29,14 +31,22 @@ Marie Leys for more information about the workshop.
 
 [Register for CompPhylo 2019 Oslo](https://skjema.uio.no/109922)
 
+## Fee
+No course fee
+
+##Travel, food and accommodation
+Shared accommodation is free of charge. Food is included, and the station 
+has cooking facilities and participants will prepare food together in shifts. 
+In addition, ForBio will cover travel for Norwegian ForBio members.
+
 # Schedule
 
-Times            | Tuesday | Wednesday (Phylogenetics) | Thursday (Population genetics)
------            | ------ | ------- | ---------
-8:30-9:00       | Check-in and refreshments | Check-in and refreshments | Check-in and refreshments
-9:00-12:30      | Intro to RAD-Seq data types | (Instruction) [Jupyter notebook setup](Jupyter_Notebook_Setup.md), [Tetrad - A Quartet-based species tree method](https://nbviewer.jupyter.org/github/dereneaton/ipyrad/blob/master/tests/cookbook-tetrad.ipynb), & [Phylogenetic inference: RAxML](06_RAxML_API.md) | (Instruction) [Clustering analysis: PCA](04_PCA_API.md), Demographic analysis ([momi2](07_momi2_API.md))
-12:30-14:00 | Lunch | Lunch | Lunch
-14:00-17:00 |[Cluster basics](01_cluster_basics.md) and [ipyrad parts I](02_ipyrad_partI_CLI.md) & [II](03_ipyrad_partII_CLI.md) | (Small Group work) [Targeted phylogenetics exercises](tba.md) | (Small Group work) [Targeted population genetics exercises](tba.md)
+Times            | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday
+-----            | ------ | ------ | ------ | | ------- | ------ | ------
+8:30-9:00       | | | Check-in and refreshments | Check-in and refreshments | Check-in and refreshments | watdo
+9:00-12:30      | | | Intro to RAD-Seq data types | (Instruction) [Jupyter notebook setup](Jupyter_Notebook_Setup.md), [Tetrad - A Quartet-based species tree method](https://nbviewer.jupyter.org/github/dereneaton/ipyrad/blob/master/tests/cookbook-tetrad.ipynb), & [Phylogenetic inference: RAxML](06_RAxML_API.md) | (Instruction) [Clustering analysis: PCA](04_PCA_API.md), Demographic analysis ([momi2](07_momi2_API.md)) | friday morn
+12:30-14:00 | | | Lunch | Lunch | Lunch | Lunch
+14:00-17:00 | | | [Cluster basics](01_cluster_basics.md) and [ipyrad parts I](02_ipyrad_partI_CLI.md) & [II](03_ipyrad_partII_CLI.md) | (Small Group work) [Targeted phylogenetics exercises](tba.md) | (Small Group work) [Targeted population genetics exercises](tba.md) | Friday afternoon
 
 ## Additional resources
 

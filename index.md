@@ -5,6 +5,8 @@ more boilerplate phylogeography stuff here
 CompPhylo workshops are designed to introduce a myriad of tools for making statistical
 inference about historical processes using genetic/genomic data.
 
+After introducing statistical approaches in model-based inferences, participants will apply pipelines for single-species demographic inferences using Approximate Bayesian Computation, Supervised Machine Learning and composite likelihood methods for model comparison using the ABLE package authored by C. Beeravolu Reddy and the PipeMaster r-package authored by M. Gehara. Then, the workshop will cover multi-taxa demographic inferences using hierarchical models in the R packages multi-DICE and PipeMaster authored by A. Xue and M. Gehara respectively. Finally, novel community population genetic models which integrates both abundances, the phylogeny and comparative phylogeographic data will be introduced. These methods which capitalize on the widespread use of DNA barcoding and meta-barcoding approaches will be implemented in the pipeline gimmeSAD/MESS designed by I. Overcast. Participants will work on sample datasets but are also encouraged to bring their own data. Advantages and limitations of each method and the fit to participant's datasets, field sampling design as well as the selection and use of genetic markers will be actively discussed. In addition, to strengthen connections and exchanges between researchers, participants will have the opportunity to present their work in the evenings.
+
 ## What is phylogeography/comparative phylogeography?
 
 * Avise et al 1987 - [Intraspecific phylogeography: the mitochondrial DNA bridge between population genetics and systematics](https://www.annualreviews.org/doi/abs/10.1146/annurev.es.18.110187.002421?casa_token=SX6e0jhz_4AAAAAA%3AUL0JkNNGtYflMzIK3Ms599rVgKaSP5pZtJzN_b_4jPcWKYN7IYiBujLi4PdVlqVnNuxcWBxXfNI&journalCode=ecolsys.1)
@@ -13,7 +15,10 @@ inference about historical processes using genetic/genomic data.
 * Hickerson et al 2010 - [Phylogeography's past, present, and future: 10 years after Avise, 2000](https://www.sciencedirect.com/science/article/pii/S105579030900373X)
 
 ## Who should attend?
-CompPhylo workshops are geared toward practicing field biologists with little or no computational experience.
+CompPhylo workshops are geared toward practicing field biologists with little
+or no computational experience. General knowledge in evolutionary biology, 
+population genetic and phylogenetic analyses. Basic knowledge in R. bash/Linux 
+and python scripting/commands scripting is useful.
 
 Workshop attendees will need to bring a laptop computer.
 
